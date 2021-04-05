@@ -1,0 +1,81 @@
+.navbar01{
+    background-color: #F25119;
+    height: 75px;
+}
+
+.link{
+    padding-left: 0px;
+}
+.link li{
+    list-style: none;
+
+}
+
+.item01{
+    background-color: #21618C;
+    border-radius: 10px;
+  
+}
+
+.item02{
+    margin-left: 10px;
+}
+.item02:hover{
+    background-color: #21618C;
+    border-radius: 10px;
+}
+.item02  i{
+    color: white;
+    margin-left: 2rem;
+}
+.item02 a{
+  
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+  .item01 a{
+      padding-left: 0px;
+      padding-right:0px ;
+  }
+.item01 i{
+    color: white;
+    margin-left: 2rem;
+}
+
+.bg01{
+    height: 92vh;
+   background:linear-gradient(rgba(0,0,0, .4), rgba(0,0,0, .5)), url(/photos/photo01.jpg) no-repeat center center ;
+   background-size: cover;
+    width: 100%;
+
+}
+
+.text01{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn{
+    font-weight: 400;
+    color: white;
+    font-size: 1.5rem;
+    background-color: #21618C;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.item02b{
+    margin-right: 10px;
+}
+
+.type{
+    font-size: 4rem;
+}
+
+.slick{}
