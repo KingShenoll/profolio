@@ -45,7 +45,7 @@
 
 .bg01{
     height: 92vh;
-   background:linear-gradient(rgba(0,0,0, .4), rgba(0,0,0, .5)), url(/photos/photo01.jpg) no-repeat center center ;
+   background:linear-gradient(rgba(0,0,0, .4), rgba(0,0,0, .5)), url("/photo01.jpg") no-repeat center center ;
    background-size: cover;
     width: 100%;
 
