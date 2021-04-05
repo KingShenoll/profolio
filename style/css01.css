@@ -78,4 +78,15 @@
     font-size: 4rem;
 }
 
-.slick{}
+.slick{
+    padding-left: 0rem;
+}
+
+.mp-text{
+    color: #21618C;
+}
+
+.mp-text h1{
+    font-size: 4rem;
+    margin-top: 2rem;
+}
